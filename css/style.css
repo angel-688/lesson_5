@@ -1,0 +1,178 @@
+/* &display:swap; */
+@import "null.css";
+@import url("https://fonts.googleapis.com/css?family=Dongle:regular,700&display:swap;");
+@import url(https://fonts.googleapis.com/css?family=Lato:regular,700,900&display:swap;);
+/* ================================================================ */
+body {
+	font-family: "Dongle";
+}
+.wrapper {
+	padding: 30px;
+	min-height: 100%;
+	overflow: hidden;
+}
+/* ================================================================ */
+p {
+	font-size: 18px;
+}
+h2 {
+	font-size: 25px;
+	color: rgb(85, 85, 235);
+}
+.header {
+	margin: 0px 0px 30px 0px;
+}
+.menu {
+}
+.list {
+	font-size: 0;
+	max-width: 800px;
+	margin: 0px auto;
+}
+.item {
+	display: inline-block;
+	margin: 0px 10px;
+}
+.header-link {
+	font-size: 20px;
+	color: rgb(26, 211, 26);
+}
+.main {
+}
+.main-title {
+	font-size: 30px;
+	max-width: 600px;
+	color: rgb(238, 18, 18);
+	margin-bottom: 20px;
+}
+.main-image {
+	width: 500px;
+	height: 300px;
+}
+.what-is-emotional {
+	margin-top: 15px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+}
+.text-width {
+	padding-top: 20px;
+	padding-left: 15px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+	color: rgb(165, 165, 13);
+	width: 800px;
+}
+.text-max-width {
+	color: rgb(218, 80, 218);
+	max-width: 1100px;
+}
+.text-min-width {
+	color: rgb(29, 211, 193);
+	min-width: 500px;
+	text-align: right;
+	margin-right: 20px;
+}
+.block-height {
+	height: 400px;
+}
+.text-height {
+	padding: 10% 0px 0px 0px;
+	/* height: 60%; */
+}
+
+.heart-and-brain {
+	max-width: 600px;
+	max-height: 450px;
+	margin: 0px 0px 20px 0px;
+}
+.what-is-affect {
+	margin: 0px 0px 15px 0px;
+}
+.text-max-height {
+	color: rgb(185, 20, 75);
+	max-height: 50px;
+	overflow: hidden;
+	margin: 0px 0px 15px 0px;
+}
+.text-min-height {
+	min-height: 200px;
+	color: rgb(143, 45, 45);
+}
+.block-full {
+	height: 200px;
+	overflow: scroll;
+	margin: 0px 0px 20px 0px;
+}
+.full-scroll {
+	color: rgb(58, 44, 17);
+}
+.block-auto {
+	height: 200px;
+	overflow: auto;
+}
+.auto-scroll {
+	color: palegreen;
+}
+.motivation-title {
+	margin: 0px 0px 15px 0px;
+}
+.empathy-title {
+	margin: 0px 0px 15px 0px;
+}
+.inline-one {
+	display: inline;
+}
+.inline-two {
+	display: inline;
+}
+.bold {
+	margin: 20px 0px 0px 0px;
+	font-weight: 700;
+	display: block;
+}
+
+.body {
+	font-family: "Lato", sans-serif;
+	max-width: 810px;
+	margin: 0px auto;
+	color: #424551;
+}
+.design-title {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1e212c;
+	margin: 0px 0px 88px 0px;
+}
+.design-image {
+	margin: 0px 0px 60px 0px;
+}
+
+.design-text.mb {
+	margin: 0px 0px 25px 0px;
+}
+.design-text {
+	font-size: 16px;
+	line-height: 160%;
+	margin: 0px 0px 48px 0px;
+}
+.design-bold {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+	margin: 0px 0px 22px 0px;
+}
+.design-bold.mb-bold {
+	margin: 0px 0px 48px 0px;
+}
+.design-list {
+	margin: 0px 0px 20px 0px;
+}
+.design-list li {
+	margin: 0px 0px 4px 0px;
+}
+.design-item {
+	font-size: 16px;
+	line-height: 160%;
+}
